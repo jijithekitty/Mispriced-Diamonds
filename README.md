@@ -18,7 +18,7 @@ Does that relationship sometimes not hold true indicating that there are mispric
 </table>
 
 ## Data
-
+![](https://github.com/jijithekitty/Mispriced-Diamonds/blob/master/carat-price.png)
 
 ## Conclusion
 <table>
@@ -32,4 +32,4 @@ lines meaning there is mispricing.
 </table>
 
 ## Built With
-- R
+- RStudio
