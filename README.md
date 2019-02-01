@@ -24,9 +24,7 @@ Does that relationship sometimes not hold true indicating that there are mispric
 <table>
 <tr>
 <td>
-As we move towards the right, the confidence bounds are getting greater meaning that there's less
-confidence about what's going on in the data. Observing the plot, there are intersections between the
-lines meaning there is mispricing.
+Observing the plot, there are intersections between the lines meaning there is mispricing. As we move towards the right, the confidence bounds are getting greater meaning that there's less confidence about what's going on in the data.
 </td>
 </tr>
 </table>
